@@ -13,6 +13,12 @@ coverage/
 .module-cache
 fixtures/dom/public/react-dom.js
 fixtures/dom/public/react.js
+
+.firebaserc
+firebase.json
+/.firebase
+.firebase
+
 test/the-files-to-test.generated.js
 *.log*
 chrome-user-data

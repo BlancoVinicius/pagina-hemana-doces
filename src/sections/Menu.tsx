@@ -26,7 +26,7 @@ const products: Product[] = [
     name: 'Ovo Óreo',
     description: 'Ovo de colher com casca de chocolate branco com Óreo, recheada de brigadeiro branco e pedaços crocantes de biscoito Óreo',
     price: 55.0,
-    image: '/ovo-brownie.jpeg',
+    image: '/ovo-oreo.jpeg',
   },
   {
     id: 3,

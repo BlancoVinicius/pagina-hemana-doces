@@ -51,7 +51,12 @@ export function Navigation() {
               className="flex items-center gap-2 group"
             >
               <div className="w-10 h-10 rounded-full bg-pink flex items-center justify-center transition-transform group-hover:scale-110">
-                <span className="text-white text-xl">🐰</span>
+                <img
+                  src="/logo.jpeg"
+                  alt="Coelho"
+                  
+                  className="w-full h-full rounded-full object-cover"
+                />
               </div>
               <span
                 className={`text-xl font-bold transition-colors ${
